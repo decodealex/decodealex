@@ -1,7 +1,32 @@
-<a href="https://pdfhost.io/v/.J68t4WH._Microsoft_Word_CV_Alex_Kovalyshyndocx.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kovalyshyn.alex@gmail.com"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/decodealex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://pdfhost.io/v/.J68t4WH._Microsoft_Word_CV_Alex_Kovalyshyndocx.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:decodealex1@gmail.comm"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/decodealex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
+# [DMV Test Prep](https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862) 
+<p align="left"> <a href="https://apps.apple.com/us/app/dmv-test-prep-by-testologie/id1615856862" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >  <a href="https://play.google.com/store/apps/details?id=app.testologie.dmv" download><img src="https://user-images.githubusercontent.com/33416429/180564555-b73c1a70-1409-4b9b-a22f-32c7c4a2d3e9.png" width="170" > </a>
+</p>
+
+* DMV Test Prep - it's cross-platform mobile application build in Flutter;
+* As s sole developer I fully designed and implemented front-ent and back-end solutions;
+* Server side is built with Swift programming language (Vapor framework). Hosted on Heroku;
+* Database - PostgresQL. Hosted on AWS.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33416429/180520043-f54ad385-3d75-441a-95d3-ecd5b0cc548d.png" width="930" title="DMV Test Prep">
+
+</p>
+
+# [DroneMobile](https://apps.apple.com/us/app/dronemobile/id380549030) 
+<p align="left"> <a href="https://apps.apple.com/us/app/dronemobile/id380549030" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" >; </a>
+</p>
+
+* DroneMobile - A native iOS IoT application used to remotely control vehicle
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33416429/180519121-f37b948e-987a-4976-8585-4144ec2b6c80.png" width="930" title="DroneMobile">
+
+</p>
 
 # [PUMB Online](https://apps.apple.com/ua/app/пумб-online/id1373626840) 
-<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
+<p align="left"> <a href="https://apps.apple.com/ua/app/пумб-online/id1373626840" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
 </p>
 
 * PUMB Online - A native iOS online banking app which helps people to manage their finance
@@ -26,7 +51,7 @@ ZNO Test is my pet-project that im working on right now. It is an application fo
 </p>
 
 # [Straight Ur Back](https://apps.apple.com/us/app/id1531009911) 
-<p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
+<p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
 </p>
 Straight Ur Back is an application that reminds you to keep your back straight. You can choose a time interval and how often you want to receive notifications. 
 
@@ -115,5 +140,5 @@ Run with Firebase backend.
 
 # Contact Info:
 
-- Email: kovalyshyn.alex@gmail.com
+- Email: decodealex1@gmail.com
 - LinkedIn: [decodealex](https://www.linkedin.com/in/decodealex/)
