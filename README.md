@@ -35,21 +35,6 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/33416429/93138739-516e5780-f694-11ea-8578-3f16db1bc263.png" width="930" title="PUMBOnline">
 
-</p>
-
-# ZNO Test
-ZNO Test is my pet-project that im working on right now. It is an application for Ukrainian school students that allow practicing for the ZNO test (analog of SAT (Standardized Aptitude Tests) or GRE (Graduate Record Examination) in the USA).
-
-* MVP (Model-View-Presenter) architecture
-* Realm database
-* Fully programmatically UI 
-* Firebase backend
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863994-23c89480-c917-11ea-8994-78a559d37c37.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863992-232ffe00-c917-11ea-93d8-f5e28269aef2.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="230" title="ZNO Test">
-
-</p>
-
 # [Straight Ur Back](https://apps.apple.com/us/app/id1531009911) 
 <p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/180564545-32e7e42c-7ded-4f52-81d6-9989b16cc4a3.png" width="170" ></a>
 </p>
